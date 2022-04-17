@@ -1,0 +1,113 @@
+
+#a{
+	
+	font-family: arial;
+	padding-left:70px;
+	padding-top:200px;
+	font-size:20px;
+	color:white;
+	
+  }
+  
+body{
+	background-image:url('bluetec.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.flex-container
+  {
+	display:flex;
+	flex-direction:row;
+  }
+	
+
+#h {
+	 color:white;
+	 font-size:18px;
+   
+    }
+#h1
+   {
+	   margin-left:900px;
+	   color:white;
+	   font-size:17px;
+	   a:active 
+       color: white;
+
+	  
+   }
+   
+#h2
+   {
+	   margin-left:50px;
+	   color:white;
+	   font-size:17px;
+	 
+   }
+   
+#h3
+  {
+	 margin-left:50px;
+	 color:white;
+	 font-size:17px;
+   }
+
+
+
+#b{
+	color:white;
+	background-color:green;
+	font-size:17px;
+	margin-left:70px;
+	line-height: 40px;
+	border-radius:12px;
+}
+#b1
+{
+	color:white;
+	background-color:green;
+	font-size:17px;
+	margin-left:20px;
+	line-height: 40px;
+	border-radius:12px;
+}
+
+.flex-container
+  {
+	display:flex;
+	flex-direction:row;
+  }
+  
+  #flex-container
+  {
+	display:flex;
+	flex-direction:column;
+	padding-left:20px;
+  }
+	
+#m1{
+     width:20px;
+	 height:2;
+	 background-color:white;
+	 margin-left:50px;
+	 margin:2px;
+	 
+	}
+#m2{
+      width:20px;
+	 height:2;
+	 background-color:white;
+	 margin-left:50px;
+	 margin:2px; 
+	 
+	}
+#m3{
+     width:20px;
+	 height:2;
+	 background-color:white;
+	 margin-left:50px;
+	 margin:2px;
+	 
+	}
+	
